@@ -100,3 +100,4 @@ dmypy.json
 storage/
 .DS_Store
 .idea
+venv/
